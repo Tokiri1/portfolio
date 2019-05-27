@@ -34,6 +34,10 @@
   
 ## 4. data analysis  
  ### R  
+ * [dacon 2rd 병원 영/폐업 데이터 EDA](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/180928_portfolio.R)
+   
+ * [dacon 2rd 병원 영/폐업 데이터 전처리/모델](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181011.R)  
+   
  * [dacon 3rd 경매가 데이터 baseline model in r](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181101_dacon3.R)  
   
  ### Python  
@@ -53,7 +57,8 @@
 ## 6. database  
  ### R  
   
- * [r에서 mysql db 연결 및 데이터 가져오기](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181218_R_with_mysql.R)  
+ * [(ipynb)r에서 mysql db 연결 및 데이터 시각화](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_02_R_read_data_mysql_ggplot2.ipynb)  
+   
    
    
  ### Python  
