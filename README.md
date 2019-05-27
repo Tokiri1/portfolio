@@ -58,7 +58,20 @@
   
    * [boston 데이터에 인공신경망 적용 in r](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/190228_ML_in_R.Rmd)  
   
- * Python  
+ * Python 
+   * [(ipynb)knn classifier](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181220_sklearn.ipynb)  
+     
+   * [(ipynb)군집화](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190107_clustering.ipynb)
+     
+   * [(ipynb)Linear regression with lasso, ridge for reularization](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181227_class01_lasso(hwang).ipynb)  
+   
+   * [(ipynb)Logistic regression](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181227_class02_logistic(hwang).ipynb)  
+     
+   * [(ipynb)타이타닉 EDA/baseline model](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181228_Titanic_model02(hwang).ipynb)  
+     
+   * [(ipynb)타이타닉 데이터 다양한 모델 적용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181228_Titanic_multi_03(hwang).ipynb)  
+   
+   
   
 
 ## 6. Deep Learning
@@ -82,5 +95,6 @@
      
    * [(ipynb)Sqoop으로 data im/export](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190214_SQOOP_in_Cloudera.ipynb)  
      
-   * [(ipynb)hive 사용하기](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)
+   * [(ipynb)hive 사용](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)
   
+   * [(ipynb)python에서 mongo db 사용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190326_pymongo.ipynb)
