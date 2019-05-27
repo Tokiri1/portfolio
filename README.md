@@ -63,6 +63,8 @@
      
    * [(ipynb)군집화](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190107_clustering.ipynb)
      
+   * [(ipynb)PCA & tsne를 통한 군집화](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190109_tsne.ipynb)  
+     
    * [(ipynb)Linear regression with lasso, ridge for reularization](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181227_class01_lasso(hwang).ipynb)  
    
    * [(ipynb)Logistic regression](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181227_class02_logistic(hwang).ipynb)  
