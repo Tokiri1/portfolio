@@ -97,4 +97,5 @@
    * [(ipynb)hive 사용](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)  
      
 ### Mongo db  
+ * Python  
    * [(ipynb)python에서 mongo db 사용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190326_pymongo.ipynb)
