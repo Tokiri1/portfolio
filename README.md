@@ -56,14 +56,14 @@
 
 ## 6. database  
 ### mysql  
- #### R  
+ * R   
   
- * [(ipynb)cloudery_환경에서 mysql workbench 사용](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_mysql_workbench.ipynb)
+   * [(ipynb)cloudery_환경에서 mysql workbench 사용](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_mysql_workbench.ipynb)
   
- * [(ipynb)r에서 mysql db 연결 및 데이터 시각화](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_02_R_read_data_mysql_ggplot2.ipynb)  
+   * [(ipynb)r에서 mysql db 연결 및 데이터 시각화](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_02_R_read_data_mysql_ggplot2.ipynb)  
    
    
    
- #### Python  
+ * Python  
   
   
