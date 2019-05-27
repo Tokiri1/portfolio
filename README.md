@@ -2,8 +2,6 @@
 
 ## 1.Web Crawling 
  ### R  
- * [네이버 영화 댓글 7page 크롤링 후 워드클라우드 in R](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181018_0.R)  
-  
  * [네이버 영화 댓글 200page 크롤링 후 워드클라우드 in R](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181018_1_wdcloud2.r)  
 
  ### Python  
