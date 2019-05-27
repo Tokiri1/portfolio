@@ -77,9 +77,8 @@
 ## 6. Deep Learning
   * Python
     * [Neural Networks in python](https://github.com/SeokHyeon-Hwang/Deep_Learning/blob/master/190312_NN_with_python_05.py)  
-    
-    * []()
-
+     
+  
 ## 7. database  
 ### mysql  
  * R   
@@ -95,6 +94,7 @@
      
    * [(ipynb)Sqoop으로 data im/export](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190214_SQOOP_in_Cloudera.ipynb)  
      
-   * [(ipynb)hive 사용](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)
-  
+   * [(ipynb)hive 사용](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)  
+     
+### Mongo db  
    * [(ipynb)python에서 mongo db 사용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190326_pymongo.ipynb)
