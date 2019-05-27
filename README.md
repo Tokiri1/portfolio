@@ -38,9 +38,11 @@
    
  * [dacon 3rd 경매가 데이터 baseline model in r](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181101_dacon3.R)  
   
- ### Python  
+ ### Python    
+ * [(ipynb)2019 KBO 팀 성적 예측](https://github.com/SeokHyeon-Hwang/baseball_analysis/blob/master/KBO_moneyball/190330_Kor_moneyball_2019.ipynb)  
   
-
+ * [(ipynb)dacon 6th 2019 타자 OPS 예측](https://github.com/SeokHyeon-Hwang/baseball_analysis/blob/master/dacon6/190315_dacon6_FE_N_Modeling.ipynb)
+  
 ## 5. Machine Learning  
  ### R   
  * [knn을 이용한 iris 데이터 군집화 in r](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/190107_knn.R)  
@@ -53,12 +55,15 @@
   
 
 ## 6. database  
- ### R  
+### mysql  
+ #### R  
+  
+ * [(ipynb)cloudery_환경에서 mysql workbench 사용](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_mysql_workbench.ipynb)
   
  * [(ipynb)r에서 mysql db 연결 및 데이터 시각화](https://github.com/SeokHyeon-Hwang/Mysql/blob/master/181226_02_R_read_data_mysql_ggplot2.ipynb)  
    
    
    
- ### Python  
+ #### Python  
   
   
