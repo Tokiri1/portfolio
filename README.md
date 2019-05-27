@@ -5,6 +5,8 @@
    * [네이버 영화 댓글 200page 크롤링 후 워드클라우드 in R](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181018_1_wdcloud2.r)  
 
  * Python  
+   * [selenium이용 opinet 크롤링](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181116_python_selenium.py)  
+     
    * [(ipynb)네이버 트랜드 크롤링](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/crawling/190319_naver_trend.ipynb)  
   
    * [옥션 '여성의류' 크롤링 & mysql DB에 저장](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190104_crawling_auction_save_into_DB.py)  
@@ -29,7 +31,12 @@
    * [영화 리뷰 빈도수/word cloud in r](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/181030_2_exe.R)  
   
  * Python  
+   * [(ipynb)dacon 3rd 경매데이터 EDA](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181212_dacon3_EDA_practice.ipynb)  
   
+   * [(ipynb)타이타닉 데이터 EDA](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181228_titanic_seaborn.ipynb)  
+   
+   * [(ipynb)bike-sharing 데이터 EDA](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181212_Bike_EDA.ipynb)
+   
 ## 4. data analysis  
  * R  
    * [dacon 2rd 병원 영/폐업 데이터 EDA](https://github.com/SeokHyeon-Hwang/R_data_analysis/blob/master/180928_portfolio.R)
@@ -71,8 +78,9 @@
    
    
  * Python  
-   
-   * [Sqoop으로 data im/export](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190214_SQOOP_in_Cloudera.ipynb)  
+   * [mysql in python](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/181206_mysql2.py)
      
-   * [hive 사용하기](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)
+   * [(ipynb)Sqoop으로 data im/export](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190214_SQOOP_in_Cloudera.ipynb)  
+     
+   * [(ipynb)hive 사용하기](https://github.com/SeokHyeon-Hwang/hadoop/blob/master/190219_hive_basic_in_puttyNcloudera.ipynb)
   
