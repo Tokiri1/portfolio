@@ -100,4 +100,7 @@
      
 ### Mongo db  
  * Python  
-   * [(ipynb)python에서 mongo db 사용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190326_pymongo.ipynb)
+   * [(ipynb)python에서 mongo db 사용](https://github.com/SeokHyeon-Hwang/programmerspython/blob/master/190326_pymongo.ipynb
+### test
+[image](https://user-images.githubusercontent.com/54658578/65573867-cf7aaf80-dfa6-11e9-9e0d-ace382e7f46a.png)
+
